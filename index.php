@@ -1,4 +1,5 @@
 <?php
+<<<<<<< HEAD
 
 /**
  *      [Discuz!] (C)2001-2099 Comsenz Inc.
@@ -153,4 +154,7 @@ function checkholddomain($domain) {
 	}
 	return $ishold;
 }
+=======
+index.php  v3
+>>>>>>> 253e7e74527fffe6d489164dd807a07227fb2325
 ?>
